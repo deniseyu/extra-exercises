@@ -1,0 +1,1 @@
+This folder contains extra exercises provided in the precourse work for Makers Academy.
